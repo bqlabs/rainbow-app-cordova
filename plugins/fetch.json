@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-websocket": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-websocket"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-zeroconf": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-zeroconf"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

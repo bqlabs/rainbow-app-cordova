@@ -1,0 +1,20 @@
+{
+  "name": "rainbow-client-cordova",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rainbow-client-sdk": "develop",
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "rainbow-client-sdk",
+  "authors": [
+    "Tom Calvo <calvo.tom@gmail.com>"
+  ],
+  "description": "",
+  "main": "rainbow.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bqlabs/rainbow-client-sdk-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "q": "v1.0.1"
+  },
+  "_release": "3a8023f854",
+  "_resolution": {
+    "type": "branch",
+    "branch": "develop",
+    "commit": "3a8023f8543cc0554595219413a2c905d90b11ce"
+  },
+  "_source": "git://github.com/bqlabs/rainbow-client-sdk-js.git",
+  "_target": "develop",
+  "_originalSource": "rainbow-client-sdk"
+}
